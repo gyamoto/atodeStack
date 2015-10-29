@@ -1,0 +1,11 @@
+{
+  "name" : "atodeStack",
+  "description" : "後で見たいリンクをタブで開きっぱなしにしたくないよね",
+  "version" : "0.1",
+  "background" : {
+    "scripts" : ["background.js"]
+  },
+  "omnibox" : { "keyword" : "ast" },
+  "permissions" : [ "storage" ],
+  "manifest_version" : 2
+}
