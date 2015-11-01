@@ -6,6 +6,6 @@
     "scripts" : ["background.js"]
   },
   "omnibox" : { "keyword" : "ast" },
-  "permissions" : [ "storage" ],
+  "permissions" : [ "storage", "tabs" ],
   "manifest_version" : 2
 }
